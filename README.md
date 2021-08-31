@@ -80,6 +80,9 @@ v0.5.0
 
 ## Android Change Log
 
+v0.8.7 (August 31, 2021)
+- Bug Fixes and feature enhancements.
+
 v0.8.2 (March 23, 2020)
 - Added Android https TLSv1.3 compliance
 
